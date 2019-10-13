@@ -15,5 +15,7 @@ en-wikipedia_traffic_200712-201909.csv is the processed version of the file. Thi
 
 Data has been combined together into a single file from multiple files offline in excel, the juypter notebook contains all the information till creating the multiple individual files. 
 
+This folder also contains an excel sheet which was used to generate the visualization. I converted the visits into Million and graphed them. The excel with the visualization is en-wikipedia_traffic_200712-201909.xls.
+
 
 
